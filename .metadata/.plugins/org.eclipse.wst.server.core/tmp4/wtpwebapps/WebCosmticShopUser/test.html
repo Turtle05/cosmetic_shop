@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Side Filter</title>
+    <style>
+        .category {
+            margin-bottom: 10px;
+        }
+
+        .subcategory {
+            display: none;
+            margin-left: 20px;
+        }
+
+        .expand:before {
+            content: "+";
+            margin-right: 5px;
+        }
+
+        .collapse:before {
+            content: "-";
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="category">
+        <div class="expand" onclick="toggleSubcategory(this)">Category 1</div>
+        <div class="subcategory">
+            <div>Subcategory 1.1</div>
+            <div>Subcategory 1.2</div>
+            <div>Subcategory 1.3</div>
+        </div>
+    </div>
+    <div class="category">
+        <div class="expand" onclick="toggleSubcategory(this)">Category 2</div>
+        <div class="subcategory">
+            <div>Subcategory 2.1</div>
+            <div>Subcategory 2.2</div>
+            <div>Subcategory 2.3</div>
+        </div>
+    </div>
+    <div class="category">
+        <div class="expand" onclick="toggleSubcategory(this)">Category 3</div>
+        <div class="subcategory">
+            <div>Subcategory 3.1</div>
+            <div>Subcategory 3.2</div>
+            <div>Subcategory 3.3</div>
+        </div>
+    </div>
+
+    <script>
+        function toggleSubcategory(element) {
+            var subcategory = element.nextElementSibling;
+            if (subcategory.style.display === "none" || subcategory.style.display === "") {
+                subcategory.style.display = "block";
+                element.classList.remove("expand");
+                element.classList.add("collapse");
+            } else {
+                subcategory.style.display = "none";
+                element.classList.remove("collapse");
+                element.classList.add("expand");
+            }
+        }
+    </script>
+</body>
+
+</html>

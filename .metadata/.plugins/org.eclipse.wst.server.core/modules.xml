@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:testPaypal" serverId="Tomcat v8.5 Server at localhost (3)"/>
+  <module moduleId="org.eclipse.jst.jee.server:test" serverId="Tomcat v8.5 Server at localhost (4)"/>
+  <module moduleId="org.eclipse.jst.jee.server:WebCosmticShopUser" serverId="Tomcat v8.5 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:WebCosmeticShop" serverId="Tomcat v8.5 Server at localhost"/>
+</modules>

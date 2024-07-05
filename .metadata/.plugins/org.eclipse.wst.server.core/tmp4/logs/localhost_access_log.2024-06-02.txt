@@ -1,0 +1,16 @@
+127.0.0.1 - - [02/Jun/2024:20:12:25 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/ HTTP/1.1" 200 9520
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/logo.jpg HTTP/1.1" 200 134365
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/slide.jpg HTTP/1.1" 200 279787
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/slide3.jpg HTTP/1.1" 200 65198
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/slide2.jpg HTTP/1.1" 200 213270
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/style.css HTTP/1.1" 200 8061
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:26 +0700] "GET /WebCosmticShopUser/script.js HTTP/1.1" 200 417
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:27 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:42 +0700] "GET /WebCosmticShopUser/ShowProductListServlet HTTP/1.1" 200 15114
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:47 +0700] "GET /WebCosmticShopUser/ShowProductListServlet HTTP/1.1" 200 15114
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:50 +0700] "GET /WebCosmticShopUser/ShowProductListServlet HTTP/1.1" 200 15114
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:12:53 +0700] "GET /WebCosmticShopUser/ShowHomeServlet HTTP/1.1" 200 9520
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:13:44 +0700] "GET /WebCosmticShopUser/ShowProductListServlet HTTP/1.1" 200 15114
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:15:50 +0700] "GET /WebCosmticShopUser/ShowHomeServlet HTTP/1.1" 200 9520
+0:0:0:0:0:0:0:1 - - [02/Jun/2024:20:15:52 +0700] "GET /WebCosmticShopUser/ShowProductListServlet HTTP/1.1" 200 15114

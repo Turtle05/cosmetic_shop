@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\959750303.index
+\WebCosmeticShop\src\main\java
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4168290053.index
+\WebCosmticShopUser\src\main\java
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\648987399.index
+\test\src
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\624169457.index
+\Paypal\src\main\java
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1577951648.index
+\testPaypal\src\main\java
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2992265320.index
+\WebComesticShop\src
+D:\game\tool\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3129876376.index
+\test\src

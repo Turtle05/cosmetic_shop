@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;path&apos; from expression &apos;&quot;ShowCheckoutServlet?error=1&quot;&apos;&#x0D;&#x0A;- Original project: &apos;WebCosmticShopUser&apos;&#x0D;&#x0A;- Variable name: &apos;path&apos;&#x0D;&#x0A;- Destination method: &apos;controller.AuthorizePaymentServlet.doPost(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;&quot;ShowCheckoutServlet?error=1&quot;&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;path&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;controller{AuthorizePaymentServlet.java" name="path" replace="true" replaceAllInThisFile="false" selection="2967 29" stamp="1719411788498" varType="false" version="1.0"/>
+</session>

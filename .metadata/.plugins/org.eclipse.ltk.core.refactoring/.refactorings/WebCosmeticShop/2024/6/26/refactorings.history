@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Category.java&apos; to &apos;WebCosmticShopUser/src/main/java/model.bean&apos;&#x0D;&#x0A;- Original project: &apos;WebCosmeticShop&apos;&#x0D;&#x0A;- Destination element: &apos;WebCosmticShopUser/src/main/java/model.bean&apos;&#x0D;&#x0A;- Original element: &apos;Category.java&apos;" description="Copy file" destination="=WebCosmticShopUser/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;model.bean" element1="src/main/java/model/bean/Category.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1719392539770" units="0" version="1.0"/>
+</session>

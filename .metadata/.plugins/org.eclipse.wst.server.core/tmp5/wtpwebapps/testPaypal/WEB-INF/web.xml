@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>testPaypal</display-name>
+  <welcome-file-list>
+    <welcome-file>checkout.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>AuthorizePaymentServlet</display-name>
+    <servlet-name>AuthorizePaymentServlet</servlet-name>
+    <servlet-class>controller.AuthorizePaymentServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AuthorizePaymentServlet</servlet-name>
+    <url-pattern>/AuthorizePaymentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ReviewPaymentServlet</display-name>
+    <servlet-name>ReviewPaymentServlet</servlet-name>
+    <servlet-class>controller.ReviewPaymentServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ReviewPaymentServlet</servlet-name>
+    <url-pattern>/ReviewPaymentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ExecutePaymentServlet</display-name>
+    <servlet-name>ExecutePaymentServlet</servlet-name>
+    <servlet-class>controller.ExecutePaymentServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ExecutePaymentServlet</servlet-name>
+    <url-pattern>/ExecutePaymentServlet</url-pattern>
+  </servlet-mapping>
+</web-app>

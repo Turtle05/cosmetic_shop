@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="model.bean.Employee"/>
+    <fullyQualifiedTypeName name="model.bean.Customer"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.MultipartConfig"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.services.s3.S3Client"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.services.s3.model.PutObjectAclRequest"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.core.sync.RequestBody"/>
+    <fullyQualifiedTypeName name="controller.S3Util"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.connector.Response"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.core.ResponseInputStream"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.services.s3.model.GetObjectRequest"/>
+    <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="byte"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="common.DownloadFile"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="model.bo.ShowCategoryBO"/>
+    <fullyQualifiedTypeName name="model.bo.ShowBrandListBO"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.deser.Deserializers.Base"/>
+    <fullyQualifiedTypeName name="model.bean.Order"/>
+    <fullyQualifiedTypeName name="model.bean.CategoryGroup"/>
+    <fullyQualifiedTypeName name="model.dto.ProductDTO"/>
+    <fullyQualifiedTypeName name="model.bean.Product"/>
+    <fullyQualifiedTypeName name="model.dto.ProDTO"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="sun.java2d.loops.CustomComponent"/>
+    <fullyQualifiedTypeName name="model.dto.CustomerDTO"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="model.dao.DeleteCartDAO"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="model.dto.OrderDetailDTO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="model.dto.DanhgiaDTO"/>
+    <fullyQualifiedTypeName name="model.bo.EditEmployeeBO"/>
+    <fullyQualifiedTypeName name="controller.EditCategoryGroupServlet"/>
+    <fullyQualifiedTypeName name="model.dto.OrderDTO"/>
+    <fullyQualifiedTypeName name="model.dao.BaseDAO"/>
+    <fullyQualifiedTypeName name="controller.ShowCheckoutServlet"/>
+</qualifiedTypeNameHistroy>

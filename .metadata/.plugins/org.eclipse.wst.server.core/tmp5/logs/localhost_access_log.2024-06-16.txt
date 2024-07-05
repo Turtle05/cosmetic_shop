@@ -1,0 +1,7 @@
+127.0.0.1 - - [16/Jun/2024:20:58:31 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:20:58:32 +0700] "GET /testPaypal/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:20:58:32 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:20:58:39 +0700] "POST /testPaypal/AuthorizePaymentServlet HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jun/2024:20:59:28 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:20:59:29 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Jun/2024:20:59:35 +0700] "POST /testPaypal/AuthorizePaymentServlet HTTP/1.1" 500 1571
